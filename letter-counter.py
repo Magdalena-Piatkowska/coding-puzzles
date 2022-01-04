@@ -1,6 +1,6 @@
-#Counts the count of a letter in a string. Inspired by SoloLearn's "Beginner Python" course.
+#Counts the number of times a letter appears in a string. Inspired by SoloLearn's "Beginner Python" course.
 
-print("Let's take a word and a letter and check how many times said letter appears in said word. \n")
+print("Let's take a word and a letter, and check how many times said letter appears in said word. \n")
 word = str(input("Please provide a word: \n"))
 letter = input("Please provide a letter: \n")
 

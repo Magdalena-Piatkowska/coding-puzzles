@@ -17,7 +17,7 @@ print(word[::-1])
 # print(flipping_a_string(word))
 
 
-# 3rd solution. Iterates through the string with a for loop. Uses the in-build range() function to 'move' backwards along the string's elements.
+# 3rd solution. Uses the in-build range() function and a for loop to 'move' backwards along the string's elements.
 # for letter in range(len(word)-1, -1, -1):
 #     print(word[letter], end="")
 

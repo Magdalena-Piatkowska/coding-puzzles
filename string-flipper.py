@@ -1,4 +1,4 @@
-#All the ways of flipping a string that I could find. Inspired by SoloLearn's "Python for Beginners" course.
+# All the ways of flipping a string that I could find. Inspired by SoloLearn's "Python for Beginners" course.
 
 print("Let's take a word and flip it. \n")
 word = input("Please provide a word that you want flipped: \n")
